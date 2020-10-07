@@ -1,2 +1,5 @@
 # MLtoPredictSA
 Machine_Learning_Model_to_Predict_Culture_Positivity_in_Suspect_Septic_Arthritis
+
+Jupyter Notebook: Machine_Learning_Model_to_Predict_Culture_Positivity_in_Suspect_Septic_Arthritis.ipynb 
+Processed Dataset: /Dataset/myInputCSVdataCentral1.csv 
